@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
+import Characters from "./pages/characters";
 
 function App() {
   return (
-    <div className="App">
+    <div>
     Rick and Morty
+      <Characters />
     </div>
   );
 }
