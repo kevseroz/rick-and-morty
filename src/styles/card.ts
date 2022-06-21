@@ -49,5 +49,16 @@ export const useStyles = makeStyles((theme) => createStyles({
     },
     filterInput: {
         marginBottom: '15px'
+    },
+    buttonArea: {
+        marginBottom: '20px',
+        width: '100%',
+        display: 'flex',
+        justifyContent: 'center'
+    },
+    error: {
+        backgroundColor: 'rgba(242, 61, 48, 0.5)',
+        padding: '15px',
+        borderRadius: '5px',
     }
 }))
