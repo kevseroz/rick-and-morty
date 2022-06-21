@@ -10,7 +10,7 @@ To clone project, run command:
 
 
 ```bash
-https://github.com/kevseroz/rick-and-morty.git
+git clone https://github.com/kevseroz/rick-and-morty.git
 ```
 
 After cloning project to your local computer, cd into project folder using terminal and then run:
