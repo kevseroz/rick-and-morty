@@ -10,15 +10,18 @@ To clone project, run command:
 
 
 ```bash
-[npm start](https://github.com/kevseroz/rick-and-morty.git)```
+[npm start](https://github.com/kevseroz/rick-and-morty.git)
+```
 
 After cloning project to your local computer, cd into project folder using terminal and then run:
 
  ```bash
- npm install```
+ npm install
+ ```
 
 After libraries and modules installed successfully, you can run project using:
 
  ```bash
- npm start```
+ npm start
+ ```
 
