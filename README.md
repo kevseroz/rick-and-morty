@@ -8,13 +8,17 @@ Use the package manager npm to install project.
 
 To clone project, run command:
 
-### `[npm start](https://github.com/kevseroz/rick-and-morty.git)`
+
+```bash
+[npm start](https://github.com/kevseroz/rick-and-morty.git)```
 
 After cloning project to your local computer, cd into project folder using terminal and then run:
 
- `npm install`
+ ```bash
+ npm install```
 
 After libraries and modules installed successfully, you can run project using:
 
- `npm start`
+ ```bash
+ npm start```
 
