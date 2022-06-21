@@ -27,8 +27,8 @@ After libraries and modules installed successfully, you can run project using:
 
 ## Libraries and Modules
 
-# Apollo Client
+#### Apollo Client
 
-# Material UI
+#### Material UI
 
-# GraphQL
+#### GraphQL
